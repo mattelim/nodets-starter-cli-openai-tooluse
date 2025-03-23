@@ -17,11 +17,11 @@ Enter your own `OPENAI_API_KEY` in `.env`
 Run in TS mode, without warnings:
 
 ```
-pnpm startts-nw
+pnpm startt-nw
 ```
 
 Run in TS mode, without warnings, with debug logs:
 
 ```
-pnpm startts-nw debug
+pnpm startt-nw debug
 ```
